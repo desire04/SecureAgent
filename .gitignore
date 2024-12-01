@@ -10,3 +10,6 @@ src/test.ts
 src/test-files.ts
 src/tests
 src/scripts
+src/__pycache__
+content/
+.streamlit/
